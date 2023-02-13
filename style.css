@@ -1,0 +1,195 @@
+.conatiner-fluid{
+    background-color: #F0FFF0;
+}
+
+a {
+    text-decoration: none;
+        
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+  
+   
+ }
+ 
+.btn {
+    border-radius: 30px;
+}
+
+.row{
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+
+.are{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FD511A;
+
+}
+
+.learn{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+/* or 146% */
+
+
+color: #000000;
+}
+
+.learn span{
+    color: green;
+}
+
+.lorem{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 36px;
+/* or 225% */
+
+
+color: #6C6B6B;
+
+}
+
+.topic{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #413960;
+
+}
+
+.anything{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #585859;
+}
+.man-s{
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        /* or 188% */
+        padding: 5%;
+        
+        color: #000000;
+}
+.man{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+
+color: #000000;
+
+}
+
+.block{
+    background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+width: 350px;
+height: 450px;
+
+}
+
+.card-title{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #413960;
+}
+
+li{
+    list-style: none;
+}
+.Designation{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #585859;
+}
+.Online-Courses{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #413960;
+
+}
+.poster{
+    display:inline-flex;
+   align-items: center;
+    background: #F8FFFB;
+    border-radius: 5px;
+    padding-top: 10px;
+
+margin:5px ;
+}
+
+/* .poster span{
+    justify-content: center;
+    align-items: center;
+} */
+
+.poster >p{
+    text-align: center;
+}
+
+.card{
+    align-items: center;
+}
+
+.col{
+    display: inline;
+}
