@@ -1,4 +1,4 @@
-.conatiner-fluid{
+.head{
     background-color: #F0FFF0;
 }
 
@@ -99,11 +99,11 @@ color: #585859;
     font-family: 'Poppins';
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
+        font-size: 20px;
         line-height: 30px;
         /* or 188% */
         padding: 5%;
-        
+        padding-top: 1%;
         color: #000000;
 }
 .man{
@@ -192,4 +192,12 @@ margin:5px ;
 
 .col{
     display: inline;
+}
+
+.end{
+    background-color: #282531;
+}
+.list{
+    list-style: none;
+    color: #FFFFFF;
 }
